@@ -1,2 +1,2 @@
 ## NiiTpicks: 
-"Neat picks": Small Linux tweaks for magnetic resonance neuroimaging workflows
+"Neat picks" / "Nitpicks": Small Linux tweaks for magnetic resonance neuroimaging workflows
